@@ -10,6 +10,7 @@ Check out the live demo of the AI Haiku Poem Generator: [https://haiku-poem-gene
 
 - Generates haiku poems using AI technology
 - Simple and intuitive user interface
+- Error handling for improved experience on the API route and client-side
 - Typewriter effect for displaying the generated haikus
 - Responsive design for optimal viewing on various devices
 
