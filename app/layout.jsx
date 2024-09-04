@@ -28,6 +28,18 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          name="theme-color"
+          content="#F4F8FD"
+          media="(prefers-color-scheme: light)"
+        />
+        <meta
+          name="theme-color"
+          content="#10172A"
+          media="(prefers-color-scheme: dark)"
+        />
+      </head>
       <body
         className={`${inter.className} bg-blue-100/30 dark:bg-slate-900 dark:text-slate-400`}
       >
