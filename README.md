@@ -99,7 +99,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Typewriter Effect](https://github.com/tameemsafi/typewriterjs) for the typewriter animation
 - [Font Awesome](https://fontawesome.com/) for the icons
 - [Tailwind CSS](https://tailwindcss.com/) for the styling framework
-
-## Contact
-
-For any inquiries or feedback, please contact [hello@chelseakoenig.com](mailto:hello@chelseakoenig.com).
