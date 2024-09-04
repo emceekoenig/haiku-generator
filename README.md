@@ -4,7 +4,7 @@ The AI Haiku Poem Generator is a web application that automatically generates ha
 
 ## Demo
 
-Check out the live demo of the AI Haiku Poem Generator: [https://haiku-poem-generator.netlify.app/](https://haiku-poem-generator.netlify.app/)
+Check out the live demo of the AI Haiku Poem Generator: [https://haiku-poem-generator.vercel.app/](https://haiku-poem-generator.vercel.app/)
 
 ## Features
 
