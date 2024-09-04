@@ -15,7 +15,7 @@ export default function Footer() {
       </a>
       , is open-sourced on{" "}
       <a
-        href="https://github.com/emceekoenig/ai-poem-generator"
+        href="https://github.com/emceekoenig/haiku-generator"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-600 dark:text-blue-800"
@@ -24,12 +24,12 @@ export default function Footer() {
       </a>{" "}
       and hosted on{" "}
       <a
-        href="https://haiku-poem-generator.netlify.app/"
+        href="https://haiku-poem-generator.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-600 dark:text-blue-800"
       >
-        Netlify
+        Vercel
       </a>
       .
     </footer>
